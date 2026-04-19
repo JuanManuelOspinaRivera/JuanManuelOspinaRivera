@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Juan%20Manuel%20Ospina&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Systems%20Engineer%20Student%20%7C%20Backend%20%7C%20Databases%20%7C%20AI&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Juan%20Manuel%20Ospina&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Systems%20Engineer%20Student%20%7C%20Backend%20%7C%20Data%20%7C%20AI&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=620&lines=Backend+Developer+%F0%9F%9A%80;Database+Designer+%F0%9F%97%84%EF%B8%8F;AI+%26+Game+Dev+Explorer+%F0%9F%A4%96;Always+building+something+real+%F0%9F%94%A7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Backend+Developer+%F0%9F%9A%80;Database+%26+Data+Analytics+Engineer+%F0%9F%97%84%EF%B8%8F;AI+%26+Machine+Learning+Explorer+%F0%9F%A4%96;Game+Dev+with+Unity+%F0%9F%8E%AE;Always+building+something+real+%F0%9F%94%A7)](https://git.io/typing-svg)
 
 </div>
 
@@ -17,9 +17,9 @@
 ```python
 juan_manuel = {
     "education":  "Systems Engineering — 6th Semester",
-    "focus":      ["Backend Development", "Databases", "AI", "Game Dev"],
+    "focus":      ["Backend Development", "Databases", "AI & ML", "Data Analytics", "Game Dev"],
     "philosophy": "Building tools that optimize real-world processes",
-    "learning":   "AI Algorithms · Scalable Architectures · Unity",
+    "learning":   "Machine Learning · Neural Networks · Scalable Architectures · Unity",
     "location":   "Colombia 🇨🇴"
 }
 ```
@@ -30,19 +30,36 @@ juan_manuel = {
 
 <div align="center">
 
-### Languages
+### 💻 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Web & Data
+### 🌐 Web & Backend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### Tools
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+### 🤖 AI & Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Weka](https://img.shields.io/badge/Weka-0277BD?style=for-the-badge&logo=data&logoColor=white)
+
+### 📊 Data & Analytics
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+
+### 🔧 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
