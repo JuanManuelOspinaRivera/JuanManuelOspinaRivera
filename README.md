@@ -16,11 +16,12 @@
 
 ```python
 juan_manuel = {
-    "education":  "Systems Engineering — 6th Semester",
-    "focus":      ["Backend Development", "Databases", "AI & ML", "Data Analytics", "Game Dev"],
-    "philosophy": "Building tools that optimize real-world processes",
-    "learning":   "Machine Learning · Neural Networks · Scalable Architectures · Unity",
-    "location":   "Colombia 🇨🇴"
+    "education":   "Systems Engineering — 6th Semester",
+    "focus":       ["Backend Development", "Databases", "AI & ML", "Data Analytics", "Game Dev"],
+    "philosophy":  "Building tools that optimize real-world processes",
+    "learning":    "Machine Learning · Neural Networks · Scalable Architectures · Unity",
+    "location":    "Colombia 🇨🇴",
+    "available":   True  # Open to internships & collaborations
 }
 ```
 
@@ -65,6 +66,7 @@ juan_manuel = {
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 
 </div>
 
@@ -74,10 +76,11 @@ juan_manuel = {
 
 <div align="center">
 
-| Project | Description | Tech |
-|:-------:|:-----------:|:----:|
-| 🚛 **[FlowFleet](https://github.com/JuanManuelOspinaRivera/FlowFleet)** | Web application for fleet and freight vehicle management | `PHP` `MySQL` `HTML/CSS` |
-| 🏢 **[ResidentialApp](https://github.com/JuanManuelOspinaRivera/ResidentialApp)** | Full system for residential complex administration and common area management | `Java` `MySQL` `PHP` |
+| Project | Description | Tech | Status |
+|:-------:|:-----------:|:----:|:------:|
+| 🚛 **[FlowFleet](https://github.com/JuanManuelOspinaRivera/FlowFleet)** | Web application for fleet and freight vehicle management — multi-role system for clients, drivers and managers | `PHP` `MySQL` `HTML/CSS` | ![Status](https://img.shields.io/badge/status-complete-brightgreen?style=flat-square) |
+| 🏢 **[ResidentialApp](https://github.com/JuanManuelOspinaRivera/ResidentialApp)** | Full system for residential complex administration — PQR management, reservations and parcel tracking | `PHP` `MySQL` `HTML/CSS` | ![Status](https://img.shields.io/badge/status-complete-brightgreen?style=flat-square) |
+| 🏦 **[BancaEnLinea](https://github.com/JuanManuelOspinaRivera/BancaEnLinea)** | Online banking system with secure login, account dashboard and transaction management | `PHP` `MySQL` `HTML/CSS` | ![Status](https://img.shields.io/badge/status-complete-brightgreen?style=flat-square) |
 
 </div>
 
@@ -111,6 +114,19 @@ juan_manuel = {
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=JuanManuelOspinaRivera&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FF6B35" width="100%"/>
+
+</div>
+
+---
+
+## 🌱 Currently Learning
+
+<div align="center">
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Intermediate-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Neural Networks](https://img.shields.io/badge/Neural%20Networks-Learning-58A6FF?style=for-the-badge&logo=pytorch&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity%20Game%20Dev-Learning-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Scalable Architecture](https://img.shields.io/badge/Scalable%20Architecture-Exploring-brightgreen?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 </div>
 
